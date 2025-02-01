@@ -21,10 +21,10 @@ I enjoy building things that live on the internet, and I am always learning new 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <div style="background-color:white;">
+
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  </div>
+
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; text-align: center; gap: 15px;">
