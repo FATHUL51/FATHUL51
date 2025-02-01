@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @FATHUL51
-- 👀 I’m interested in to be web dev 
-- 🌱 I’m currently learning mern stack
-- 📫 How to reach me just text me 
-- 😄 Pronouns: he/him
+# Hello! 👋 I'm Sanjay Patel
 
-<!---
-FATHUL51/FATHUL51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building things that live on the internet, and I am always learning new technologies. Currently, I’m focused on:
+
+- 👋 Hi, I’m sk fathul islam
+- 🎓 I recently graduated with a Bachelor's in Technology in electronic and telecommunication
+- 👀 I’m currently focusing on fullstack development, with expertise in React.js,Node.js,mongo.Db,Express.js
+- 🌱 I’m continually learning new technologies and solving coding challenges
+- 💼 Open to opportunities in web development
+
+## Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center; gap: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjaypatel-01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" style="height: 190px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaypatel-01&layout=compact&bg_color=00000000&text_color=ffffff&card_width=310" alt="Top Languages" style="height: 190px;" />
+</div>
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=FATHUL51)
