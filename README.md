@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I enjoy building things that live on the internet, and I am always learning new technologies. Currently, I’m focused on:<br><br>👋 Hi, I’m sk fathul islam<br>🎓 I recently graduated with a Bachelor's in Technology in electronic and telecommunication<br>👀 I’m currently focusing on fullstack development, with expertise in React.js,Node.js,mongo.Db,Express.js<br>🌱 I’m continually learning new technologies and solving coding challenges<br>💼 Open to opportunities in web development</p>
+<p align="left">I enjoy building things that live on the internet, and I am always learning new technologies.<br><br>👋 Hi, I’m sk fathul islam<br>🎓 I recently graduated with a Bachelor's in Technology in electronic and telecommunication<br>👀 I’m currently focusing on fullstack development, with expertise in React.js,Node.js,mongo.Db,Express.js<br>🌱 I’m continually learning new technologies and solving coding challenges<br>💼 Open to opportunities in web development</p>
 
 ###
 
